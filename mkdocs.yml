@@ -1,0 +1,6 @@
+site_name: MusicFest
+theme:
+  name: material
+
+nav:
+  - Home: index.md
