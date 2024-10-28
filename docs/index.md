@@ -175,3 +175,8 @@ Descrevemos a seguir os casos de uso do sistema, que ilustram as interações en
 ### 7. Importância da Estrutura
 
 A estrutura relacional da base de dados do MusicFest,  detalhada nas seções anteriores, garante a integridade e consistência dos dados. O sistema se beneficia da escalabilidade e flexibilidade, permitindo sua adaptação a diferentes portes de eventos e necessidades específicas de gestão. Através de uma interface amigável e funcionalidades intuitivas, o MusicFest tem o potencial de se consolidar como uma ferramenta essencial no universo da música.
+
+
+| Nome           | Versão  | Observação           |
+|----------------|---------|----------------------|
+| itallo gravina | 1.0     | Criação do documento |
